@@ -12,7 +12,8 @@
             "id": 1,
             "name": "I Phone X",
             "brand": "Apple",
-            "file_path": "Resume.png"
+            "file_path": "Resume.png",
+            "price": 999
         }
     ]
 }
