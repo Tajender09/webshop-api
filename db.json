@@ -1,25 +1,26 @@
-{
-    "users": [
+  {
+      "users": [
+          {
+              "id": 1,
+              "name": "Test",
+              "email": "test@test.com",
+              "password": "test@123"
+          }
+      ],
+      "products": [
+          {
+              "name": "I Phone X",
+              "brand": "Apple",
+              "file_path": "Resume.png",
+              "price": 999,
+              "id": 1
+          }
+      ],
+      "contacts": [
         {
             "id": 1,
             "name": "Test",
-            "email": "test@test.com",
-            "password": "test@123"
+            "phone": 9116511522
         }
-    ],
-    "products": [
-        {
-            "name": "I Phone X",
-            "brand": "Apple",
-            "file_path": "Resume.png",
-            "price": 999,
-            "id": 1
-        }
-    ],
-    "contacts": [
-      {
-          "name": "Test",
-          "phone": "9116511522"
-      }
-    ]
-}
+      ]
+  }
