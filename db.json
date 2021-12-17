@@ -15,5 +15,11 @@
             "price": 999,
             "id": 1
         }
+    ],
+    "contacts": [
+      {
+          "name": "Test",
+          "phone": "9116511522"
+      }
     ]
 }
