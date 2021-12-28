@@ -22,5 +22,12 @@
         "name": "Test",
         "phone": 9116511522
       }
+    ],
+    "contacts-s": [
+      {
+        "id": 1,
+        "name": "Test",
+        "phone": 9116511522
+      }
     ]
   }
