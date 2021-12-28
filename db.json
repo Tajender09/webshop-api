@@ -1,26 +1,69 @@
   {
-      "users": [
-          {
-              "id": 1,
-              "name": "Test",
-              "email": "test@test.com",
-              "password": "test@123"
-          }
-      ],
-      "products": [
-          {
-              "name": "I Phone X",
-              "brand": "Apple",
-              "file_path": "Resume.png",
-              "price": 999,
-              "id": 1
-          }
-      ],
-      "contacts": [
-        {
-            "id": 1,
-            "name": "Test",
-            "phone": 9116511522
-        }
-      ]
+    "users": [
+      {
+        "id": 1,
+        "name": "Test",
+        "email": "test@test.com",
+        "password": "test@123"
+      }
+    ],
+    "products": [
+      {
+        "name": "I Phone X",
+        "brand": "Apple",
+        "file_path": "Resume.png",
+        "price": 999,
+        "id": 1
+      }
+    ],
+    "contacts": [
+      {
+        "id": 1,
+        "name": "Test",
+        "phone": 9116511522
+      }
+    ],
+    
+    "images": [
+      {
+        "id": 1,
+        "name": "iPhone 11 Pro 256GB Memory",
+        "link": "https://i.postimg.cc/1XR1DVkk/iphone.png"
+      },
+      {
+        "id": 2,
+        "name": "Canon EOS 80D DSLR Camera",
+        "link": "https://i.postimg.cc/Jn6kWZ5x/canon.png"
+      },
+      {
+        "id": 3,
+        "name": "Sony Playstation 4 Pro White Version",
+        "link": "https://i.postimg.cc/pVSsfFMK/ps.png"
+      },
+      {
+        "id": 4,
+        "name": "Dell G-Series Wireless Mouse",
+        "link": "https://i.postimg.cc/VvX00pcG/dell.png"
+      },
+      {
+        "id": 5,
+        "name": "Amazon Echo Dot (3rd Gen) Smart Speaker",
+        "link": "https://i.postimg.cc/L4jJTcrv/echo.png"
+      },
+      {
+        "id": 6,
+        "name": "Samsung Galaxy Tab S6 Lite 64GB",
+        "link": "https://i.postimg.cc/Pq6R0V9R/tablet.png"
+      },
+      {
+        "id": 7,
+        "name": "Fitbit Versa 2 Smartwatch",
+        "link": "https://i.postimg.cc/VLYkFd9L/fitbit.png"
+      },
+      {
+        "id": 8,
+        "name": "Sony WH-CH510 Bluetooth Wireless Headphone",
+        "link": "https://i.postimg.cc/qMB8SBcj/headphones.png"
+      },
+    ]
   }
